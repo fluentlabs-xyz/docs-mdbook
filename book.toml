@@ -1,0 +1,11 @@
+[book]
+authors = ["MarcusWentz"]
+language = "en"
+multilingual = false
+src = "src"
+title = "⚙️ fluent ⚙️"
+
+[output.html]
+git-repository-url = "https://github.com/fluentlabs-xyz/docs-mdbook"
+edit-url-template =  "https://github.com/fluentlabs-xyz/docs-mdbook/edit/main/src/README.md"
+additional-js =  ["src/static/solidity.min.js"]
