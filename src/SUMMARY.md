@@ -18,7 +18,11 @@
   - [Rust Developer Guide](developer-guides/developer-quickstart-guides/rust-developer-guide.md)
   - [Vyper Developer Guide](developer-guides/developer-quickstart-guides/vyper-developer-guide.md)
 - [Building a Blended App](developer-guides/building-a-blended-app.md)
-
+  - [Prerequisites](developer-guides/prerequisites.md)
+  - [Step 1: Start Rust Contract](developer-guides/start-rust-contract.md)
+  - [Step 2: Start Solidity Contract](developer-guides/start-solidity-contract.md)
+  - [Step 3: Deploy Blended Contracts](developer-guides/deploy-blended-contracts.md)
+  
 # Knowledge Base
 
 - [Fluent Overview](knowledge-base/readme.md)
