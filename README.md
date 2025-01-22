@@ -1,6 +1,10 @@
 # fluent-mdbook-test
 
-## GitHub Pages Hosted Link
+## Cloudflare Hosted Link (Production) 
+
+https://docs.gblend.xyz
+
+## GitHub Pages Hosted Link (Testing)
 
 https://fluentlabs-xyz.github.io/docs-mdbook/
 
