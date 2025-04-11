@@ -1,4 +1,8 @@
-# fluent-mdbook-test
+⚠️ Note: Fluent documentation has moved to this GitHub repo: ⚠️
+
+https://github.com/fluentlabs-xyz/docs-docusaurus
+
+⚠️ Open new pull requests for documentation updates instead. ⚠️
 
 ## Cloudflare Hosted Link (Production) 
 
